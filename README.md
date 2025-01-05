@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munshi67" alt="munshi67" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/munshionik" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/munshionik?logo=twitter&style=for-the-badge" alt="https://x.com/munshionik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/munshionik" target="blank"><img src="https://img.shields.io/twitter/follow/munshionik?logo=twitter&style=for-the-badge" alt="munshionik" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,**
 
@@ -15,14 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/munshionik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/munshionik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/munshi77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munshi77/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kamranhasan777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kamranhasan777" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/onik2425/about_overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/onik2425/about_overview" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/munshionik_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/munshionik_/" height="30" width="40" /></a>
+<a href="https://twitter.com/munshionik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munshionik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/munshi77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munshi77" height="30" width="40" /></a>
+<a href="https://kaggle.com/kamranhasan777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kamranhasan777" height="30" width="40" /></a>
+<a href="https://fb.com/onik2425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="onik2425" height="30" width="40" /></a>
+<a href="https://instagram.com/munshionik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="munshionik_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programming with onik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming with onik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kamranhasan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kamranhasan24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/munshi67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/munshi67/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kamranhasan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamranhasan24" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/munshi67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="munshi67" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
