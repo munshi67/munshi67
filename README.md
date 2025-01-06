@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munshi67" alt="munshi67" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/munshionik" target="blank"><img src="https://img.shields.io/twitter/follow/munshionik?logo=twitter&style=for-the-badge" alt="munshionik" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript,**
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **munshionik67@gmail.com**
-
+<p align="left"> <a href="https://twitter.com/munshionik" target="blank"><img src="https://img.shields.io/twitter/follow/munshionik?logo=twitter&style=for-the-badge" alt="munshionik" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/munshionik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munshionik" height="30" width="40" /></a>
