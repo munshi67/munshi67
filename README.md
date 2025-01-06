@@ -4,54 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munshi67&label=Profile%20views&color=0e75b6&style=flat" alt="munshi67" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munshi67" alt="munshi67" /></a> </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GitHub Profile Banner</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .banner {
-      width: 100%;
-      height: 200px;
-      background-color: #333; /* Replace with your preferred banner color */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      color: white;
-      font-size: 24px;
-    }
-    .profile-image {
-      display: flex;
-      justify-content: center;
-      margin-top: -50px;
-    }
-    .profile-image img {
-      border-radius: 50%;
-      border: 5px solid white;
-      width: 100px;
-      height: 100px;
-    }
-  </style>
-</head>
-<body>
-  <!-- Banner Section -->
-  <div class="banner">
-    Welcome to My GitHub Profile!
-  </div>
-
-  <!-- Profile Image Section -->
-  <div class="profile-image">
-    <img src="https://github.com/onik.png" alt="GitHub Profile Image" />
-  </div>
-</body>
-</html>
-
 
 
 - 🌱 I’m currently learning **JavaScript,**
